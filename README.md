@@ -2,7 +2,7 @@
 
 Iced Coffee is a "bookmarklet" that is designed to add some basic CoffeeScript support to Telerik's [Icenium Myst](https://app.icenium.com/Mist).
 
-If you want the Icenium team to add *real* CoffeeScript support in a future release please also upvote it in [Icenium Feedback]()https://feedback.telerik.com/Project/87/Feedback/Details/774-coffeescript-support.
+If you want the Icenium team to add *real* CoffeeScript support in a future release please also upvote it in [Icenium Feedback](https://feedback.telerik.com/Project/87/Feedback/Details/774-coffeescript-support).
 
 ## The Bookmarklet
 
